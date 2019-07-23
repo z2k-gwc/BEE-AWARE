@@ -1,0 +1,34 @@
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  background-color: #FFE5E5;
+  padding: 10px;
+}
+.container > div {
+  /* background-color: rgba(255, 255, 255, 0.8); */
+  text-align: right;
+  /* padding: 20px 0; */
+  font-size: 14px;
+}
+
+/* unvisited link */
+.footerlink a:link {
+  color: black;
+  text-decoration: none;
+}
+/* visited link */
+.footerLink a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+.footerLink a:hover {
+  color: black;
+  text-decoration: none;
+  background-color: #F9D2D2;
+}
+
+.footerLink a:active {
+  text-decoration: none;
+}
