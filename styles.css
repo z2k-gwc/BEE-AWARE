@@ -1,3 +1,7 @@
+body {
+  background-color: #fffde7;
+  font-family: 'Playfair Display', serif;
+}
 /* CSS for the footer */
 .container {
   display: grid;
