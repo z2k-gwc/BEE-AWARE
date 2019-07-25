@@ -25,7 +25,7 @@ function myFunction() {
     x.style.display = "none";
   }
 }
-function myFunction() {
+function myFunction1() {
   var x = document.getElementById("infoaboutZosia");
   if (x.style.display === "none") {
     x.style.display = "block";
@@ -33,7 +33,7 @@ function myFunction() {
     x.style.display = "none";
   }
 }
-function myFunction() {
+function myFunction2() {
   var x = document.getElementById("infoaboutKen");
   if (x.style.display === "none") {
     x.style.display = "block";
