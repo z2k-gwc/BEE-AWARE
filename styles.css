@@ -151,11 +151,11 @@ h1{
 .about img {
   length: 60px;
   width: 50px;
-/*   float: center; */
+  float: center;
 }
 .columnAbout{
   width:100%;
-  float:left;
+  float:center;
   width:31%;
   padding:20px;
   text-decoration: none;
@@ -164,7 +164,7 @@ h1{
   font-style: normal;
   font-variant:normal;
   font-weight: 100;
-  text-align:left;
+  text-align:center;
   margin: 10px;
-  background-color: #E7FFE4;
+  background-color: #E7FFE4
 }
