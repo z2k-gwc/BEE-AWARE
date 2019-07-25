@@ -1,6 +1,7 @@
 body {
-  background-color: #fffde7;
+  background-color: #EEF5DB;
   font-family: 'Playfair Display', serif;
+  margin:0;
 }
 /* CSS for the footer */
 .container {
@@ -39,15 +40,23 @@ body {
 }
 
 /* CSS for the Top Nav */
+nav{
+  width:100%;
+  background-color:black;
+  text-align:center;
+  margin:0 auto;
+}
+.fixed-nav nav{
+  position:fixed;
+  top:0;
+  z-index:1;
+}
 .topnav ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow:hidden;
   background-color:#93E88A;
-  position: -webkit-sticky; /* Safari */
-  position: sticky;
-  top: 0;
 }
 .topnav li{
   float:left;
@@ -70,7 +79,18 @@ li a:hover:not(.active) {
 .active li a {
   background-color: #4CAF50;
 }
-/* ZS updated css */
+/* Title Styling */
+h1{
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 70px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 800;
+  line-height: 35px;
+  text-align: center;
+  color:MediumSeaGreen;
+}
+  
 /* Mission Statement */
 .mission{
   background-size: auto;
