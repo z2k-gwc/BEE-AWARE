@@ -135,7 +135,12 @@ img{
 .column:hover{
   background-color:CornSilk;
 }
-
+.column a{
+  text-decoration: none;
+  color: MediumSeaGreen;
+}
+.column ul{
+  color:black;
 }
 .row::after {
   content: "";
