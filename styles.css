@@ -151,7 +151,7 @@ h1{
 .about img {
   length: 60px;
   width: 50px;
-  float: center;
+  float: left;
 }
 .columnAbout{
   width:100%;
