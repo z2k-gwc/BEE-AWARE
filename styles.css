@@ -142,3 +142,23 @@ img{
   clear: both;
   display: table;
 }
+.about img {
+  length: 60px;
+  width: 50px;
+  float: center;
+}
+.columnAbout{
+  width:100%;
+  float:left;
+  width:31%;
+  padding:20px;
+  text-decoration: none;
+  font-family:Georgia,Times,"Times New Roman";
+  font-size: 14px;
+  font-style: normal;
+  font-variant:normal;
+  font-weight: 100;
+  text-align:left;
+  margin: 10px;
+  background-color: #93E88A;
+}
