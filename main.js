@@ -20,8 +20,24 @@ window.addEventListener('scroll', stickyNavigation);
 function myFunction() {
   var x = document.getElementById("infoaboutZ");
   if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
     x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+function myFunction() {
+  var x = document.getElementById("infoaboutZosia");
+  if (x.style.display === "none") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+function myFunction() {
+  var x = document.getElementById("infoaboutKen");
+  if (x.style.display === "none") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "black";
   }
 }
