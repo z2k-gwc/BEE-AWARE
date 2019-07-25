@@ -168,6 +168,11 @@ h1{
   margin: 10px;
   background-color: #E7FFE4
 }
+/* Buttons on About us page */
+.columnAbout button{
+  background-color:MediumSeaGreen;
+}
+  
 #infoaboutZ {
   width: 100%;
   padding: 50px 0;
