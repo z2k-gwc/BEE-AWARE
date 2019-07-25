@@ -116,7 +116,7 @@ h1{
   text-align: left;
 }
 /* Home Buttons */
-img{
+.column img{
   border-radius: 50%
 }
 .column{
