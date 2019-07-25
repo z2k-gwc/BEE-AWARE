@@ -70,3 +70,55 @@ li a:hover:not(.active) {
 .active li a {
   background-color: #4CAF50;
 }
+/* ZS updated css */
+/* Mission Statement */
+.mission{
+  background-size: auto;
+  background-image: url("honeycomb.png");
+  height:200px
+
+}
+.mission h4{
+ font-family:Georgia,Times,"Times New Roman";
+ font-size:35px;
+ font-style:normal;
+ font-variant: normal;
+ font-weight:300;
+ text-align:left;
+ color:MediumSeaGreen;
+}
+.mission pre{
+  font-family:Georgia,Times,"Times New Roman";
+  font-size: 27px;
+  font-style: normal;
+  font-variant:normal;
+  font-weight: 100;
+  text-align: left;
+}
+/* Home Buttons */
+img{
+  border-radius: 50%
+}
+.column{
+  width:100%;
+  float:left;
+  width:30%;
+  padding:9px;
+  text-decoration: none;
+  font-family:Georgia,Times,"Times New Roman";
+  font-size: 22px;
+  font-style: normal;
+  font-variant:normal;
+  font-weight: 100;
+  text-align:left;
+}
+.column:hover{
+  background-color:CornSilk;
+}
+
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
