@@ -342,34 +342,33 @@ video{
   display: table;
   clear: both;
 }
-body {
+/* Honey CSS */
+/*body {
   background-color:#EEF5DB ;
-
+*/
 }
 .border{
   background-color: white;
 }
 
-h1 {
+/*h1 {
   color:  green;
   margin-left: 20px;
 }
-h3{
+*/
+.headr3 h3{
    font-style: oblique;
   font-size: 15px}
-h2  {
+.headr2 h2  {
     font-family: serif;
     color: black;
   background-color: white;
   }
 
-.text{
+/*.text{
   font-family: 'Cabin', sans-serif;
 }
-
-
-
-
+*/
 div {
   text-align: justify;
 }
@@ -456,7 +455,7 @@ img{
   width: 100%;
   padding: 20px
 }
-
+/* CSS of the Background Gif */
 .giphy {
   background-image: url("heyhoney.gif");
   min-height: 300px;
@@ -466,11 +465,8 @@ img{
   background-size: cover;
 }
 
-
-
 .images
 {
   text-align: center;
-
 }
 
