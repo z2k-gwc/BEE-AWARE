@@ -46,7 +46,8 @@ nav{
   text-align:center;
   margin:0 auto;
 }
-.fixed-nav nav{
+nav,
+.fixed-nav{
   position:fixed;
   top:0;
   z-index:1;
