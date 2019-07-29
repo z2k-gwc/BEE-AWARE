@@ -306,13 +306,13 @@ padding: 10px;
   background-size: cover;
 }
 .pollination h2{
+  font:"Playfair Display", serif;
   color:MediumSeaGreen;
   padding:0;
   margin:2;
   font-size: 45px;
   float:center;
   text-align: center;
-  font:"Playfair Display", serif;
 }
 video{
   object-fit:cover;
@@ -327,7 +327,6 @@ video{
 .title {
   float: left;
   width: 50%;
-  font:"Playfair Display",serif;
 }
 .rowpoll:after {
   content: "";
