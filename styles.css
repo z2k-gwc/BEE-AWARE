@@ -342,6 +342,14 @@ video{
   display: table;
   clear: both;
 }
+* {
+  box-sizing: border-box;
+}
+.columnbee {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
 /* Honey CSS */
 /*body {
   background-color:#EEF5DB ;
