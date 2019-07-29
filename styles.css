@@ -351,6 +351,8 @@ video{
   float: left;
   width: 50%;
   padding: 10px;
+  font-size: 22px;
+  font:"Playfair Display", serif;
 }
 /* Honey CSS */
 /*body {
