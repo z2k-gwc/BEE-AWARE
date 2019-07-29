@@ -342,4 +342,135 @@ video{
   display: table;
   clear: both;
 }
+body {
+  background-color:#EEF5DB ;
+
+}
+.border{
+  background-color: white;
+}
+
+h1 {
+  color:  green;
+  margin-left: 20px;
+}
+h3{
+   font-style: oblique;
+  font-size: 15px}
+h2  {
+    font-family: serif;
+    color: black;
+  background-color: white;
+  }
+
+.text{
+  font-family: 'Cabin', sans-serif;
+}
+
+
+
+
+div {
+  text-align: justify;
+}
+.header{
+  background-color: #faf3de
+  text-align: center;
+  padding: 20px
+
+}
+.column {
+  float: left;
+  width: 33.33%
+}
+.centerbox {
+  margin:auto;
+  width:60%;
+  border: 3px solid #73AD21;
+  padding:10px
+}
+
+/* Left and right column */
+.column.side {
+  float: right;
+  width: 33.33%;
+}
+
+/* Middle column */
+.column.middle {
+  float: middle;
+  width: 33.33%;
+}
+div.gallery{
+  margin:5px;
+  border: 1 px solid #ccc;
+  float: left;
+  width: 180px
+
+}
+div.gallery:hover {
+  border:1px solid #777
+
+}
+div.gallery img {
+  width: 100;
+  height: auto;
+
+}
+
+div.desc {
+padding: 15px;
+text-align: center;
+}
+img{
+  border-radius: 50%;
+}
+.img2{ border-radius: 100%
+  c
+}
+
+
+{
+  box-sizing: border-box;
+}
+
+.body {
+  font-family: Arial;
+  font-size: 17px;
+}
+
+.beekeeper {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.container img {vertical-align: middle;}
+
+.container.content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px
+}
+
+.giphy {
+  background-image: url("heyhoney.gif");
+  min-height: 300px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+.images
+{
+  text-align: center;
+
+}
 
