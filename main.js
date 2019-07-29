@@ -42,14 +42,14 @@ function myFunction2() {
   }
 }
 //Sticky nav try # 2//
-var  tn = $(".topnav");
-    tns = "top-nav-scrolled";
-    hdr = $('header').height();
+//var  tn = $(".topnav");
+    //tns = "top-nav-scrolled";
+    //hdr = $('header').height();
 
-$(window).scroll(function() {
-  if( $(this).scrollTop() > hdr ) {
-    mn.addClass(mns);
-  } else {
-    tn.removeClass(tns);
-  }
-});
+//$(window).scroll(function() {
+  //if( $(this).scrollTop() > hdr ) {
+    //mn.addClass(mns);
+ // } else {
+   // tn.removeClass(tns);
+  //}
+//});
