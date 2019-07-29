@@ -41,3 +41,15 @@ function myFunction2() {
     x.style.display = "none";
   }
 }
+//Sticky nav try # 2//
+var  tn = $(".topnav");
+    tns = "top-nav-scrolled";
+    hdr = $('header').height();
+
+$(window).scroll(function() {
+  if( $(this).scrollTop() > hdr ) {
+    mn.addClass(mns);
+  } else {
+    tn.removeClass(tns);
+  }
+});
