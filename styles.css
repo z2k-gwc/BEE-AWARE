@@ -327,6 +327,7 @@ video{
 .title {
   float: left;
   width: 50%;
+  font:"Playfair Display",serif;
 }
 .rowpoll:after {
   content: "";
