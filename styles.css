@@ -121,7 +121,7 @@ padding: 10px;
 .column{
   width:100%;
   float:left;
-  width:30%;
+  width:29%;
   padding:9px;
   text-decoration: none;
   font-family:Georgia,Times,"Times New Roman";
@@ -132,7 +132,7 @@ padding: 10px;
   text-align:left;
 }
 .column:hover{
-  background-color:CornSilk;
+  background-color:#D5EF90;
 }
 .column a{
   text-decoration: none;
