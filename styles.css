@@ -480,3 +480,7 @@ text-align: center;
   text-align: center;
 }
 
+/* Change the blue link for the Bee Removal Services */
+.beeRemoval {
+  color:MediumSeaGreen;
+}
