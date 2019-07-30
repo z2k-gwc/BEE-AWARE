@@ -74,10 +74,10 @@ li:last-child {
   padding: 14px 16px;
   text-decoration: none;
 }
-li a:hover:not(.active) {
+.topnav li a:hover:not(.active) {
   background-color: #79C970;
 }
-.active li a {
+.topnav .active li a {
   background-color: #4CAF50;
 }
 /* Title Styling */
